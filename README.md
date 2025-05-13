@@ -1,100 +1,15 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=200&section=header&text=Hi%20👋%20I'm%20Dhakshana&fontSize=40&fontAlign=50&fontColor=ffffff"/>
-</p>
+# 💫 About Me:
+🎓 IT Undergraduate @ M.Kumarasamy College of Engineering<br>💼 Aspiring Java Developer | ML Enthusiast<br>🌱 Currently exploring Full Stack, AI & Cloud<br>🏆 Oracle Cloud AI Certified, Full Stack Certified<br>📚 I love problem solving, team work, and continuous learning<br>🧠 Sometimes I procrastinate... but always deliver 😉<br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java;C;Python" alt="Typing SVG" />
-</p>
 
-<!-- Badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/dhakshana/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:dhakshana.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/dhakshana"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DhakshanaMohan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DhakshanaMohan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhakshanaMohan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=DhakshanaMohan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🧑‍💻 About Me
-
-- 🎓 IT Undergraduate @ M.Kumarasamy College of Engineering  
-- 💼 Aspiring Java Developer | ML Enthusiast  
-- 🌱 Currently exploring Full Stack, AI & Cloud  
-- 🏆 Oracle Cloud AI Certified, Full Stack Certified  
-- 📚 I love problem solving, team work, and continuous learning  
-- 🧠 Sometimes I procrastinate... but always deliver 😉
-
----
-
-## 🚀 Skills & Tools
-
-### Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-</p>
-
-### Web & DB
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40"/>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhakshana&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dhakshana&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhakshana&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-## 🧠 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/dhakshana?theme=dark&font=Consolas&ext=heatmap" width="80%"/>
-</p>
-
----
-
-## 🏆 Achievements & Certifications
-
-- ✅ Oracle Cloud AI Certified Associate – 2024  
-- ✅ Full Stack Development – NoviTech  
-- ✅ NPTEL Certified – Programming in Java  
-- ✅ STEP Plus English Communication Certification
-
----
-
-## 🌱 Projects & Internships
-
-- 🎮 Java Mini Games – Rock Paper Scissors, Number Guess  
-- 🧠 Crop Yield Prediction using Machine Learning  
-- 🔄 Internship at [Your Company Name] – Java Intern  
-- 📄 Paper Presentation on [Your Project Topic]
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=150&section=footer"/>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
