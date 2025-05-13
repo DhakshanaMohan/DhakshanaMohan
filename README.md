@@ -1,97 +1,125 @@
-<!-- Profile Header -->
+Certainly! Here's a customized, professional, and aesthetically enhanced GitHub profile README for **Dhakshana**, incorporating smooth animations, modern design elements, and skill logos to showcase your expertise effectively.
+
+---
+
+## 📄 Dhakshana's GitHub Profile README
+
+```markdown
+<!-- Header Section with Animated Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=240&section=header&text=Dhakshana%20M&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Aspiring%20Software%20Developer%20|%20Tech%20Learner&descAlignY=65&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=240&section=header&text=Dhakshana&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI/ML%20Enthusiast&descAlignY=58&descAlign=50"/>
 </div>
 
-<!-- Typing Animation -->
+<!-- Typing Effect for Roles -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2BE4D2&center=true&vCenter=true&width=600&height=100&lines=B.Tech+IT+Student;Aspiring+Software+Developer;Java+%7C+C%2B%2B+%7C+Python;Critical+Thinker+%7C+Team+Player;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver;Coffee+%E2%98%95+%3D+Code+%F0%9F%92%BB;Always+Learning" alt="Typing SVG" />
 </div>
 
-<!-- Social Links -->
+<!-- Social Media Badges -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/dhakshana-m"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/dhakshana-m"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dhakshana/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dhakshana.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/dhakshana/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+  <a href="https://github.com/dhakshana"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
+<!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhakshana-m&style=for-the-badge&color=blueviolet" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=dhakshana&style=for-the-badge&color=blueviolet" alt=""/>
+</p>
+
+## 👨‍💻 About Me
+
+<img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- 🎓 Information Technology Student
+- 🌱 Currently diving deep into **AI/ML & Full Stack Development**
+- 💡 Passionate about solving real-world problems through code
+- 🎯 Looking for opportunities in **Java Development**
+- 💬 Ask me about **Tech, AI, or anything interesting!**
+- 📝 Resume: [View Resume](https://drive.google.com/file/d/your-resume-link/view?usp=sharing)
+- ⚡ Fun fact: **I turn coffee into code!**
+
+---
+
+## 🛠️ My Tech Stack
+
+<!-- Tech Stack Icons -->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="macOS" width="50" height="50"/>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 🔧 Tools & IDEs
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200"/>
-
-- 🎓 B.Tech in **Information Technology** (2022–2026) at **M. Kumarasamy College of Engineering**, Karur  
-- 📍 From **Namakkal, Tamil Nadu**  
-- 🧠 Strong in **Java, C, C++, DBMS, and Python**  
-- 🧩 Soft skills: Critical thinking, teamwork, communication, and leadership  
-- 🧪 Working on a **Crop Yield Prediction** ML project  
-- 🌱 Currently exploring full-stack development & AI  
-- 🎯 Goal: To become a **skilled software developer**  
-- 🏆 NPTEL & Oracle Certified | Full Stack Developer (NoviTech)  
-- 🗣 STEP Plus Certificate – Step Score: 6 (Proficient in English)
-
----
-
-## 🛠️ Tech Stack
-
-### 🚀 Languages & Tools
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
+<p align="center">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD" />
+</p>
 
 ---
 
-## 📂 Projects & Activities
-
-### 💡 Machine Learning – Crop Yield Prediction  
-> Takes **crop name** as input and provides yield, temperature, rainfall, and soil type.  
-> Covers regions like **Namakkal** (Groundnut, Paddy, Millets) and **Karur** (Banana, Sugarcane, Cotton).  
-
-### 🎮 Java Mini Projects
-- **Guess the Number Game** – Explored loops, conditions, and user interaction  
-- **Rock Paper Scissors Game** – Practiced randomization and game logic  
-
----
-
-## 📜 Certifications
-
-- ✅ **NPTEL - Programming in Java**
-- ✅ **NPTEL - Industry 4.0 & IIoT**
-- ✅ **Oracle Cloud Infrastructure AI Certified Foundation Associate**
-- ✅ **Full Stack Development (NoviTech, 2024)**
-- ✅ **STEP Plus Certificate (Step Score: 6)**
-- ✅ **Python: Zero to Hero**
-- ✅ **Cisco - Junior Cybersecurity Analyst**
-
----
-
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhakshana-m&show_icons=true&hide_border=false&title_color=2BE4D2&icon_color=F8D866&bg_color=0D1117&text_color=ffffff&border_color=30363D" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhakshana-m&layout=compact&hide_border=false&title_color=2BE4D2&bg_color=0D1117&text_color=ffffff&border_color=30363D"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhakshana&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" width="49%" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dhakshana&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=Dhakshana's%20GitHub%20Stats" width="49%" alt="GitHub Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhakshana&theme=radical&hide_border=true&layout=compact&langs_count=8" width="49%" alt="Top Languages"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=dhakshana&theme=radical&row=1&column=4&no-frame=true&margin-w=15" width="49%" alt="Trophy"/>
 </div>
 
 ---
 
-## 🌟 Let's Connect!
+## 📈 Activity Graph
 
-> I’m always excited to collaborate, build new projects, or just talk tech.  
-> Feel free to connect on [LinkedIn](https://www.linkedin.com/in/dhakshana-m) or drop an email!
+<div align="center">
+  <img alt="Dhakshana's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=dhakshana&bg_color=0D1117&color=00FFFF&line=00FFAA&point=FFFFFF&area=true&hide_border=true&area_color=00FFB3&area_alpha=0.2" />
+</div>
 
 ---
 
-<!-- Footer -->
+## 🏆 LeetCode Stats
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=120&section=footer"/>
+  <img src="https://leetcard.jacoblin.cool/dhakshana?theme=dark&font=Montserrat&ext=heatmap&animation=true" alt="LeetCode Stats"/>
 </div>
+
+---
+
+## 🌱 My Latest Projects
+
+<div align="center">
+  <a href="https://github.com/dhakshana/smart-task-manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhakshana&repo=smart-task-manager&theme=radical" />
+  </a>
+  <a href="https://github.com/dhakshana/
+::contentReference[oaicite:0]{index=0}
+ 
+```
