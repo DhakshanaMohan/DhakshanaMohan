@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+%7C+Python+%7C+C%2B%2B;AI+%26+ML+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java;C;Python" alt="Typing SVG" />
 </p>
 
 <!-- Badges -->
@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 IT Undergrad @ M.Kumarasamy College of Engineering  
+- 🎓 IT Undergraduate @ M.Kumarasamy College of Engineering  
 - 💼 Aspiring Java Developer | ML Enthusiast  
 - 🌱 Currently exploring Full Stack, AI & Cloud  
 - 🏆 Oracle Cloud AI Certified, Full Stack Certified  
